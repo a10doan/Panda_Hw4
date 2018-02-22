@@ -16,5 +16,5 @@ Program was tested with both json data files.
 Me, myself, and I (Albert Doan)...with help from Charlie and Julien.
 
 --License--
-Part of UCB extension analytics bootcamp, in conjunction with Trilogy education services.  Copyright.
+<b>Part of UCB extension analytics bootcamp, in conjunction with Trilogy education services.  Copyright.</b>
 
